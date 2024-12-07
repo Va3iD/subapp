@@ -40,6 +40,24 @@
     "ShowInMenu": true
   },
   {
+    "name": "NekoBox",
+    "urlScheme": "nekobox://install-config",
+    "image": "https://github.com/MatsuriDayo/NekoBoxForAndroid/raw/main/icon.png",
+    "os": [
+        "Windows",
+        "Android"
+    ],
+    "downloadLinks": {
+        "Windows": "https://github.com/MatsuriDayo/NekoRay/releases/download/v1.0/NekoRay_Windows.zip",
+        "Android": {
+            "universal": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.3.2",
+            "recommended": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.2/NB4A-1.3.2-armeabi-v7a.apk"
+        }
+    },
+    "ShowInMenu": true
+}
+
+  {
     "name": "Streisand",
     "urlScheme": "streisand://import/",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/a0/cd/83a0cd76-ef34-d890-7b44-a1a9a17041c5/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/512x512bb.jpg",
