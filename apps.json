@@ -51,8 +51,7 @@
         "Android": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.2/NB4A-1.3.2-armeabi-v7a.apk"
     },
     "ShowInMenu": true
-}
-,
+},
 {
     "name": "Streisand",
     "urlScheme": "streisand://import/",
