@@ -45,7 +45,7 @@
     "image": "https://th.bing.com/th/id/OIP.4lo7pUjVwffaFxuVm9RFVwHaHa?rs=1&pid=ImgDetMain",
     "link": "nekobox://install-config/{url}",
     "os": [
-        "Android"
+      "Android"
     ],
     "downloadLinks": {
         "Android": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.2/NB4A-1.3.2-armeabi-v7a.apk"
